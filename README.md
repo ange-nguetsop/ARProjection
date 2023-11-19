@@ -3,6 +3,7 @@
 ## Overview
 This is the source code file "ARProjection.cpp" for a program that performs Augmented Reality (AR) marker-based mapping. The code captures video from a camera, detects ArUco markers in the video stream, and then uses a marker to map a different image onto the detected marker. This README file provides an overview of the code and its functionality.
 
+![Alt Result](https://github.com/ange-nguetsop/ARProjection/blob/main/concatenateImage.png)
 ## Dependencies
 The code relies on the following libraries:
 
